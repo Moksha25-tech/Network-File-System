@@ -1,0 +1,11 @@
+Client/Client
+Client/Clientlog.log
+Client/obj
+
+Naming Sever/NS
+Naming Sever/NSlog.log
+Naming Sever/obj
+
+Storage Server/SSlog.log
+Storage Server/StorageServer
+Storage Server/obj
